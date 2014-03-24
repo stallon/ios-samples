@@ -18,18 +18,19 @@
 //
 
 // We can also add our ClientID here
-#define CLIENT_ID @"1234567890.apps.googleusercontent.com"
+#define CLIENT_ID @"325472548299.apps.googleusercontent.com"
 
 // We'll define our leaderboards
-#define LEAD_EASY @"AAAAAAAAAA"
-#define LEAD_HARD @"BBBBBBBBBB"
+#define LEAD_HARD @"CgkIy-uzvbwJEAIQBw"
+#define LEAD_EASY @"CgkIy-uzvbwJEAIQCA"
 
 // We can define our achievement IDs here
-#define ACH_PRIME @"CCCCCCCCCC"
-#define ACH_BORED @"DDDDDDDDDD"
-#define ACH_HUMBLE @"EEEEEEEEEE"
-#define ACH_COCKY @"FFFFFFFFFF"
-#define ACH_LEET @"GGGGGGGGGG"
-#define ACH_REALLY_BORED @"HHHHHHHHHH"
+#define ACH_PRIME @"CgkIy-uzvbwJEAIQAQ"
+#define ACH_BORED @"CgkIy-uzvbwJEAIQAg"
+#define ACH_HUMBLE @"CgkIy-uzvbwJEAIQAw"
+#define ACH_COCKY @"CgkIy-uzvbwJEAIQBA"
+#define ACH_LEET @"CgkIy-uzvbwJEAIQBQ"
+#define ACH_REALLY_BORED @"CgkIy-uzvbwJEAIQCQ"
+
 
 #define WEB_GAME_URL @"https://www.example.com/typeanumber/index.html"
